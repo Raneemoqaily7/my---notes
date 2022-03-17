@@ -68,7 +68,7 @@
 8. Path Knowledge
 
 |Title|Content|
-
+|_____|_______|
 |Syntax And Your First APP|[Click](./firstApp.md)|
 
 

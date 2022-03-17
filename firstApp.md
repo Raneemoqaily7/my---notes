@@ -18,10 +18,11 @@ In terminal
 
 ## Indentation 
 Python is sensetive in Identation (Block of Code)
-
--  `if True :
+   ```
+-  if True :
 -     Print ("I Love Python")
--     print("Hello Python World")`
+-     print("Hello Python World")
+                ```
 
 
 ## Comments
