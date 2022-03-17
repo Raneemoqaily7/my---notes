@@ -28,8 +28,11 @@ Python is sensetive in Identation (Block of Code)
 
 ## Comments
 * Comment doesn`t excuted 
+
 #This is Comment
+
 #This is another Comment
+
 #This is another Comment
 
 ***Prevent Code From Run*** 
