@@ -2,7 +2,7 @@
 
 In terminal run the following commands
 ```
- mkdir Python         #To create a ew Directory 
+ mkdir Python         #To create a new Directory 
  cd Python            #Reach your Directory
  touch first.py       #Create new file in your python Directory 
  code .               #open with Vs 
@@ -19,8 +19,8 @@ Print ("I Love Python") ; print("Hello Python World")
 1. Vs Terminal : click at the run botton on the right top of the terminal
 2. Command Line : run this command `python first.py`
 
-## Indentation 
-Python is sensetive in Identation (Block of Code)
+##  Indentation 
+Python is sensetive in  Indentation (Block of Code)
    ```
   if True :
      Print ("I Love Python")
