@@ -27,7 +27,7 @@ Python is sensetive in Identation (Block of Code)
 
 
 ## Comments
-* Comment doesn`t excuted 
+***Comment doesn`t excuted*** 
 
 #This is Comment
 
@@ -36,9 +36,10 @@ Python is sensetive in Identation (Block of Code)
 #This is another Comment
 
 ***Prevent Code From Run*** 
+
 #print("programming")  /// this code will not excueted
 
-* Comments important for other programmers to give a notes and describe the code 
+***Comments important for other programmers to give a notes and describe the code*** 
 
  """ 
  This 
