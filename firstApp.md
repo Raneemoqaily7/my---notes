@@ -123,37 +123,51 @@ Reserved word == > class , if , True ,False ,break , or ,from ...
  Output == > Hello World Python 
 
  3. \\ Escape Back Slash 
+ 
  `print ("I Love Back Slash \")` ==> #This is error it will scape double Quotes and caused an error
 
  `print ("I love Back Salsh\\")`
+
  Output ==> I Love Back Slash \
 
  4. \" Escape Double Quotes
+
  `print ("I love Double Quotes \"")`
+
  Output == > I love Double Quotes "
 
  5. \' Escape Single Quotes
+
 `print ('I love Single Quotes \'')`
+
  Output == > I love Single Quotes ' 
 
  6. \n Line Feed
  `print("Hello World\nThis is new line")`
+
  Output ==>   Hello World
               This is new line
 
  7. \r Carrige Return 
+
  `print("123456\rabcd")`
+
  Output ==> abcd56
 
  8. \t Horizental Tab 
+
  `print("Hello\tWorld")`
+
  Output ==> Hello   World
 
  9. \xhh Character Hex Value
+
  `print ("\x5A")`
+
  Output ==> Z
 
  `print ("\x59\x5A")`
+
  Output ==> YZ
 
  ***You Can check [Hex, decimal, and symbol values - IBM](https://www.ibm.com/docs/en/ste/10.0.0?topic=maps-hex-decimal-symbol-values) for Hex, decimal, and symbol values***
