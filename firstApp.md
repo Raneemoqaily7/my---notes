@@ -15,8 +15,8 @@ print("Hello Python World")
 Print ("I Love Python") ; print("Hello Python World")
 ```  
 
-* Run your program by 
-1. Vs Terminal : Use the run bottom on the top  right of the terminal
+* To excute program by using
+1. Vs Terminal : click at the run botton on the right top of the terminal
 2. Command Line : run this command `python first.py`
 
 ## Indentation 
