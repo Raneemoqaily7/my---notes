@@ -1,10 +1,10 @@
 # Your First App
 
 In terminal 
-* 1. mkdir Python : To create a ew Directory 
-* 2. cd Python : To Reach your Directory
-* 3. touch first.py : Create new file in your python Directory 
-* 4. code .  : open with Vs 
+ mkdir Python         #To create a ew Directory 
+ cd Python            #Reach your Directory
+ touch first.py       #Create new file in your python Directory 
+ code .               #open with Vs 
 
 ```
 Print ("I Love Python")
