@@ -19,9 +19,9 @@ In terminal
 ## Indentation 
 Python is sensetive in Identation (Block of Code)
 
-- ```if True :
+-  `if True :
 -     Print ("I Love Python")
--     print("Hello Python World")```
+-     print("Hello Python World")`
 
 
 ## Comments
@@ -30,17 +30,17 @@ Python is sensetive in Identation (Block of Code)
 #This is another Comment
 #This is another Comment
 
-* Prevent Code From Run 
+***Prevent Code From Run*** 
 #print("programming")  /// this code will not excueted
 
-* Comments importtant for other programmers to give a notes and describe the code 
+* Comments important for other programmers to give a notes and describe the code 
 
-""" 
-This 
-is 
-Not 
-Comment
- """
+- """ 
+- This 
+- is 
+- Not 
+- Comment
+- """
 
 
 

@@ -67,8 +67,9 @@
 7. Version
 8. Path Knowledge
 
-|Title||Content|
-|Syntax And Your First APP||[Click](./firstApp.md)|
+|Title|Content|
+
+|Syntax And Your First APP|[Click](./firstApp.md)|
 
 
 
