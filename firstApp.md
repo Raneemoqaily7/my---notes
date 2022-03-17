@@ -91,14 +91,27 @@ Output == > My Value
 
 
 name ="John"      #single word ==> Normal
+
 myName ="John"    #Tow Words ==> Camel Case
+
 my_name ="John"   #Tow Words ==> snake_case
 
 ***You Cannot Assign Values To Reserved Word***
 
 Reserved word == > class , if , True ,False ,break , or ,from ...
 
-***To check the reserved word in Python*** == > help("keywords")
+***To check the reserved word in Python*** == > help("keywords") 
+
+help("keywords")
+# False               break               for                 not
+# None                class               from                or
+# True                continue            global              pass
+# __peg_parser__      def                 if                  raise
+# and                 del                 import              return
+# as                  elif                in                  try
+# assert              else                is                  while
+# async               except              lambda              with
+# await               finally             nonlocal            yield 
  
 
 
