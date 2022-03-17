@@ -1,4 +1,4 @@
-help("keywords")
+# help("keywords")
 # False               break               for                 not
 # None                class               from                or
 # True                continue            global              pass
@@ -8,3 +8,16 @@ help("keywords")
 # assert              else                is                  while
 # async               except              lambda              with
 # await               finally             nonlocal            yield
+
+# print ("Hello\bWorld")
+# print("Hello \
+# World \
+# Python")
+
+# print ("I Love Back Slash \\")
+# print ("I love Double Quotes \"")
+# print ('I love Single Quotes \'')
+# print("Hello World\nThis is new line")
+# print("123456\rabcd")
+# print("Hello\tWorld")
+# print ("\x59\x5A")
