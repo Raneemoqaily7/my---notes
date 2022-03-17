@@ -1,11 +1,13 @@
 # Your First App
 
-In terminal 
+In terminal run the following commands
+```
  mkdir Python         #To create a ew Directory 
  cd Python            #Reach your Directory
  touch first.py       #Create new file in your python Directory 
  code .               #open with Vs 
-
+```
+run the following in your Vs
 ```
 Print ("I Love Python")
 print("Hello Python World")
