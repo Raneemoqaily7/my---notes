@@ -68,8 +68,13 @@
 8. Path Knowledge
 
 | Title |Content |
-| _____ | _______ |
+|---------| -------- |
 | Syntax And Your First APP | [Click](./firstApp.md) |
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 
 

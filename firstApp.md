@@ -6,11 +6,12 @@ In terminal
 * 3. touch first.py : Create new file in your python Directory 
 * 4. code .  : open with Vs 
 
+```
+Print ("I Love Python")
+print("Hello Python World")
 
-`Print ("I Love Python")`
-`print("Hello Python World")`
-
-`Print ("I Love Python") ; print("Hello Python World")`  
+Print ("I Love Python") ; print("Hello Python World")
+```  
 
 * Run your program by 
 1. Vs Terminal : Use the run bottom on the top  right of the terminal
@@ -36,12 +37,12 @@ Python is sensetive in Identation (Block of Code)
 
 * Comments important for other programmers to give a notes and describe the code 
 
-- """ 
-- This 
-- is 
-- Not 
-- Comment
-- """
+ """ 
+ This 
+ is 
+ Not 
+ Comment
+ """
 
 
 
@@ -68,10 +69,7 @@ Python is sensetive in Identation (Block of Code)
 - `print(type(2==2))` --- >   bool :Boolean
 
 ## Variables
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+
 
 
 
