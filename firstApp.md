@@ -76,6 +76,38 @@ Python is sensetive in  Indentation (Block of Code)
 
 ## Variables
 
+syntax === > [Variable name][Assigment Operator] [Value]
+Example == > myVariable = "My Value"
+             print (myVariable) 
+
+Output == > My Value
+
+* Name Convention and Rules
+1. Can start With (a-z A-Z) Or UnderScore
+2. You cann`t Start With Numbers Or Special Characteros
+3. Can Include (0-9) Or UnderScore
+4. Cannot Include Special Characters
+5. Name is Not Like name (Case Sensetive)  
+
+
+name ="John"      #single word ==> Normal
+myName ="John"    #Tow Words ==> Camel Case
+my_name ="John"   #Tow Words ==> snake_case
+
+***You Cannot Assign Values To Reserved Word***
+
+Reserved word == > class , if , True ,False ,break , or ,from ...
+
+***To check the reserved word in Python*** == > help("keywords")
+ 
+
+
+
+
+
+
+
+
 
 
 
