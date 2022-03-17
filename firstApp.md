@@ -68,6 +68,10 @@ Python is sensetive in Identation (Block of Code)
 - `print(type(2==2))` --- >   bool :Boolean
 
 ## Variables
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 
 
