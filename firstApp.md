@@ -196,6 +196,7 @@ First Second Third
  A    B      C
 
  ***You Cannot Concatenate str with int***
+ 
  `print ( "Hello" + 1)` 
 
  Output ==> TypeError: can only concatenate str (not "int") to str
