@@ -56,9 +56,13 @@ myString ="I Love Python"
 # print(myString[-1])
 # print(myString[-4])
 
-print (myString[8:11])
-print (myString[2:6])
-print (myString[7:13])
+# print (myString[8:11])
+# print (myString[2:6])
+# print (myString[7:13])
+
+print (myString[2:11:2])
+print (myString[-2:-11:-2])
+
 
 
 

@@ -255,6 +255,14 @@ print (myString[8:11])     #Output ==>yth
 print (myString[2:6])      #Output ==>Love
 print (myString[7:13])     #Output ==>Python
 ```
+   ***[Start:End:Step]***
+```
+print (myString[2:11:2])      #Output ==> Lv yh
+print (myString[-2:-11:-2])   #Output ==> otPeo
+```
+
+
+
 
 
 
