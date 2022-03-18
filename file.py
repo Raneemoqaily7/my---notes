@@ -21,3 +21,17 @@
 # print("123456\rabcd")
 # print("Hello\tWorld")
 # print ("\x59\x5A")
+
+# a= "First Second Third"
+# b = "A , B , C"
+# print (a +" "+  b)
+
+# a= "First\
+#  Second\
+#  Third"
+# b= " A\
+#     B\
+#       C " 
+# print (a +"\n"+  b)
+
+print ( "Hello" + 1)

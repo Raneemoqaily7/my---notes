@@ -123,7 +123,7 @@ Reserved word == > class , if , True ,False ,break , or ,from ...
  Output == > Hello World Python 
 
  3. \\ Escape Back Slash 
- 
+
  `print ("I Love Back Slash \")` ==> #This is error it will scape double Quotes and caused an error
 
  `print ("I love Back Salsh\\")`
@@ -172,6 +172,33 @@ Reserved word == > class , if , True ,False ,break , or ,from ...
 
  ***You Can check [Hex, decimal, and symbol values - IBM](https://www.ibm.com/docs/en/ste/10.0.0?topic=maps-hex-decimal-symbol-values) for Hex, decimal, and symbol values***
 
+
+## Concatenation 
+```
+a= "First Second Third"
+b = "A , B , C"
+print (a +" "+  b)
+```
+
+Output ==>  First Second Third A , B , C
+```
+a= "First\
+ Second\
+ Third"
+b= " A\
+    B\
+      C " 
+print (a +"\n"+  b)
+```
+
+Output ==>
+First Second Third
+ A    B      C
+
+ ***You Cannot Concatenate str with int***
+ `print ( "Hello" + 1)` 
+
+ Output ==> TypeError: can only concatenate str (not "int") to str
 
 
 
