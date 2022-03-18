@@ -144,26 +144,32 @@ my name is :John and my age is 30 Iam a python Dev with Rank 10.000000
 ---
 msg = "Hello Python People I Love You All"
 
-print ("Massage is : {:.19s}".format( msg))
+print ("Massage is : {:.19s}".format( msg))  Output ==> Hello Python People
 
 ---
 
 money = 254673894034
 
 print("Money is : {}".format(money))          Output ==> Money is : 254673894034
+
 print("Money is : {:_d}".format(money))       Output ==> Money is : 254_673_894_034
 
 ---
 
 a, b, c ="one", "two" ,"three"
+
 print("Hello {} {} {}".format(a ,b ,c))       Output ==> Hello one two three
+
 print("Hello {2} {0} {1}".format(a ,b ,c))    Output ==> Hello three one two
 
 ---
 
 name ="john"
+
 age=30
+
 print (f"My Name {name} Iam {age} Years Old")   Output==> My Name john Iam 30 Years Old
+
 
 ---
 
