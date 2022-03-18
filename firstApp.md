@@ -208,23 +208,24 @@ myStringOne ='This is Single Quote'
 
 myStringTwo ="This is Double Quote"
 
-print (myStringOne)  Output ==>This is Single Quote
+print (myStringOne)  #Output ==>This is Single Quote
 
-print(myStringTwo)   Output== > This is Double Quote
+print(myStringTwo)   #Output== > This is Double Quote
 
 myStringThree ='This is Single Quote "Test"'
 
 myStringFour ="This is Single Quote 'Test'"
 
-print (myStringThree)    Output== > This is Single Quote "Test"
+print (myStringThree)    #Output== > This is Single Quote "Test"
 
-print(myStringFour)      Output ==>This is Single Quote 'Test'
-```
+print(myStringFour)      #Output ==>This is Single Quote 'Test'
 
 myStringFive ="""First
 Second
 Third"""
+
 print(myStringFive)
+```
 
 Output ==> 
 
