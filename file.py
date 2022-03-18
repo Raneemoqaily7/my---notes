@@ -133,6 +133,91 @@
 # print(myString.count("And",0,25))
 
 
+# string="i Love PythOn"
+# print(string.swapcase())
+
+# string ="I Love Python"
+# print(string.startswith("I"))
+# print(string.startswith("P"))
+# print(string.startswith("P",7,12))
+
+
+
+
+# string ="I Love Python"
+# print (string.index("P"))
+# print (string.index("P",0,5))
+
+# print (string.find("P",0,10))
+# print (string.find("p",0,5))
+
+
+# name ="john"
+# print(name.rjust(10,"#"))
+# print(name.ljust(10,"#"))
+
+
+# string1= """first
+# second
+# third
+# """
+# print(string1.splitlines())
+
+# string2="first\nsecond\nthird"
+# print(string2.splitlines())
+
+# string ="Hello\tPython\tdev"
+# print(string.expandtabs(10))
+
+# string ="Hello Python World"
+# print(string.replace("Hello","Hi"))
+# list = ["Hello","Python","World"]
+# print("-" .join(list))
+
+# name = "John"
+# language = "python"
+# age =30
+# Rank =10
+
+# print ("my name is : "+ name)
+# print ("my old is : "+ age )   
+# print ("My name is : %s , my age is : %d ,Iam a %s Dev with Rank %f " %(name,age ,language,Rank))
+
+# print ("Rank %.3f"  %Rank)
+
+# msg = "Hello Python People I Love You All"
+
+# print ( "The massage is : %s" %msg)
+# print ( "The massage is : %.19s" %msg)
+
+# name = "John"
+# language = "python"
+# age =30
+# Rank =10
+
+# print ("my name is :{} and my age is {} Iam a {} Dev with Rank {}".format(name,age,language,Rank))
+
+# print ("my name is :{:s} and my age is {:d} Iam a {:s} Dev with Rank {:f}".format(name,age,language,Rank))
+
+
+# msg = "Hello Python People I Love You All"
+
+# print ("Massage is : {:.19s}".format( msg))
+
+# money = 254673894034
+
+# print("Money is : {}".format(money))
+# print("Money is : {:_d}".format(money))
+
+# a, b, c ="one", "two" ,"three"
+# print("Hello {} {} {}".format(a ,b ,c))
+# print("Hello {2} {0} {1}".format(a ,b ,c))
+
+name ="john"
+age=30
+print (f"My Nmae {name} Iam {age} Years Old")
+
+
 
 
 

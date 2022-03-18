@@ -158,4 +158,10 @@ myString ="I Love Python And Php And Mysql And Java script"
 print (myString.count("And"))                              Output ==> 3
 print(myString.count("And",0,25))                          Output ==>2 
 
-[Main](./README.md)
+```
+
+
+
+
+
+

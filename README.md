@@ -59,8 +59,9 @@
 
 | Title |Content |
 |---------| -------- |
-| Syntax and variables | [Click Here](./firstApp.md) |
-|strings|[Click Here](./strings.md)
+| Syntax and variables | [Click Here](./firstApp.md)|
+|Strings Method|[Click Here](./strings1.md)|
+|Strings Method|[Click Here](./strings2.md)
 
 
 
