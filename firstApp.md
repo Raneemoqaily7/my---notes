@@ -196,10 +196,60 @@ First Second Third
  A    B      C
 
  ***You Cannot Concatenate str with int***
- 
+
  `print ( "Hello" + 1)` 
 
  Output ==> TypeError: can only concatenate str (not "int") to str
+
+ # Strings
+
+``` 
+myStringOne ='This is Single Quote'
+
+myStringTwo ="This is Double Quote"
+
+print (myStringOne)  Output ==>This is Single Quote
+
+print(myStringTwo)   Output== > This is Double Quote
+
+myStringThree ='This is Single Quote "Test"'
+
+myStringFour ="This is Single Quote 'Test'"
+
+print (myStringThree)    Output== > This is Single Quote "Test"
+
+print(myStringFour)      Output ==>This is Single Quote 'Test'
+```
+
+myStringFive ="""First
+Second
+Third"""
+print(myStringFive)
+
+Output ==> 
+
+First
+
+Second
+
+Third
+
+## String Indexing And Slicing 
+
+- Indexing (access single item)
+
+```
+myString ="I Love Python"
+print (myString[0]) ==> I
+print(myString[5])  ==> e
+print(myString[-1]) ==> n    #First Character From The End
+print(myString[-4]) ==> t    #Fourth Character From The End
+```
+
+
+
+
+
 
 
 

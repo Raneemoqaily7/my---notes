@@ -34,4 +34,28 @@
 #       C " 
 # print (a +"\n"+  b)
 
-print ( "Hello" + 1)
+# print ( "Hello" + 1)
+
+# myStringOne ='This is Single Quote'
+# myStringTwo ="This is Double Quote"
+# print (myStringOne)
+# print(myStringTwo)
+# myStringThree ='This is Single Quote "Test"'
+# myStringFour ="This is Single Quote 'Test'"
+# print (myStringThree)
+# print(myStringFour)
+
+# myStringFive ="""First
+# Second
+# Third"""
+# print(myStringFive)
+
+myString ="I Love Python"
+print (myString[0])
+print(myString[5])
+print(myString[-1])
+print(myString[-4])
+
+
+
+
