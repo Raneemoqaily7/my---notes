@@ -102,8 +102,11 @@ myName ="John"    #Two Words ==> Camel Case
 my_name ="John"   #Two Words ==> snake_case
 
 a, b, c = 1, 2, 3 
+
 print (a) ==> 1
+
 print (b) ==> 2
+
 print (c) ==> 3
 
 ***You Cannot Assign Values To Reserved Word***
@@ -111,6 +114,19 @@ print (c) ==> 3
 Reserved word == > class , if , True ,False ,break , or ,from ...
 
 ***To check the reserved word in Python*** == > help("keywords") 
+
+
+`help("keywords")`
+False               break               for                 not
+None                class               from                or
+True                continue            global              pass
+__peg_parser__      def                 if                  raise
+and                 del                 import              return
+as                  elif                in                  try
+assert              else                is                  while
+async               except              lambda              with
+await               finally             nonlocal            yield
+
 
 
  ## Especial Characters
