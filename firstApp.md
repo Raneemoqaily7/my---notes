@@ -227,6 +227,7 @@ First Second Third
 
 
 [Main](./README.md)
+[Next](./strings1.md)
 
 
 

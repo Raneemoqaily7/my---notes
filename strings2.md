@@ -160,3 +160,5 @@ print (f"My Name {name} Iam {age} Years Old")   Output==> My Name john Iam 30 Ye
 
 
 
+[Main](./README.md)
+[Strings1](./strings1.md)
