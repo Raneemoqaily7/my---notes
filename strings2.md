@@ -136,6 +136,7 @@ print ("my name is :{:s} and my age is {:d} Iam a {:s} Dev with Rank {:f}".forma
 ```
 
 ***Output ==>***
+
 my name is :John and my age is 30 Iam a python Dev with Rank 10
 
 my name is :John and my age is 30 Iam a python Dev with Rank 10.000000
