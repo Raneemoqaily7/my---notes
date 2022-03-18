@@ -248,7 +248,7 @@ print(myString[-4]) ==> t    #Fourth Character From The End
 ```
 - ***Slicing (Access Multiple Sequence Items)***
 
-***[start:End]   #End Not Encluded***
+   ***[start:End]   #End Not Encluded***
 ```
 myString ="I Love Python"
 print (myString[8:11])     #Output ==>yth
