@@ -52,7 +52,7 @@ Python is sensetive in  Indentation (Block of Code)
  Not
 
  Comment
- 
+
  """
 
 
@@ -97,9 +97,9 @@ Output == > My Value
 
 name ="John"      #single word ==> Normal
 
-myName ="John"    #Tow Words ==> Camel Case
+myName ="John"    #Two Words ==> Camel Case
 
-my_name ="John"   #Tow Words ==> snake_case
+my_name ="John"   #Two Words ==> snake_case
 
 a, b, c = 1, 2, 3 
 print (a) ==> 1
