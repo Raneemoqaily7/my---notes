@@ -50,7 +50,7 @@
 # Third"""
 # print(myStringFive)
 
-myString ="I Love Python"
+# myString ="I Love Python"
 # print (myString[0])
 # print(myString[5])
 # print(myString[-1])
@@ -69,10 +69,79 @@ myString ="I Love Python"
 # print (myString[-2:])
 # print (myString[:-2])
 # print (myString[:])
-print (myString[0::5])
-print (myString[0::4])
-print (myString[0::10])
-print (myString[0::1])
+# print (myString[0::5])
+# print (myString[0::4])
+# print (myString[0::10])
+# print (myString[0::1])
+
+# myString ="I Love Python"
+# print (len(myString))
+# myString1 ="     I Love Python"
+# print (len(myString1))
+
+# myString1 ="        I Love Python      "
+# print (myString1.strip())
+# print (myString1.rstrip())
+# print (myString1.lstrip())
+
+# myString2="#####I Love Python ###########"
+# print (myString2.strip('#'))
+# print (myString2.rstrip('#'))
+# print (myString2.lstrip('#'))
+
+# myString3="@####@@@## I Love Python ###@@@#@"
+# print (myString3.strip("#@"))
+# print (myString3.rstrip("#@"))
+# print (myString3.lstrip("#@"))
+
+
+# myString= "i love 2d graphics  and 3g technology and python "
+# print(myString.title())
+
+# print(myString.capitalize())
+
+
+# a,b,c,d="1","10","100","1000"
+# print(a.zfill(4))
+# print(b.zfill(4))
+# print(c.zfill(4))
+# print(d.zfill(4))
+
+# name1= "john"
+# name2="JOHN"
+# print(name1.upper())
+# print(name2.lower())
+
+
+# myString1 ="Hello Python World"
+# myString2 ="Hello-Python-World"
+# print(myString1.split())
+# print(myString1.split(" "))
+# print(myString2.split("-"))
+
+# myString3 ="I Love Python and Mysql"
+# print(myString3.split(" ",2))
+# print(myString3.rsplit(" ",2))
+
+
+# name ="john"
+# print(name.center(8,"@"))
+
+
+# myString ="I Love Python And Php And Mysql And Java script"
+# print (myString.count("And"))
+# print(myString.count("And",0,25))
+
+
+
+
+
+
+
+
+
+
+
 
 
 
