@@ -144,15 +144,19 @@ msg = "Hello Python People I Love You All"
 
 print ("Massage is : {:.19s}".format( msg))
 ---
+
 money = 254673894034
 
 print("Money is : {}".format(money))          Output ==> Money is : 254673894034
 print("Money is : {:_d}".format(money))       Output ==> Money is : 254_673_894_034
 ---
+
 a, b, c ="one", "two" ,"three"
 print("Hello {} {} {}".format(a ,b ,c))       Output ==> Hello one two three
 print("Hello {2} {0} {1}".format(a ,b ,c))    Output ==> Hello three one two
+
 ---
+
 name ="john"
 age=30
 print (f"My Name {name} Iam {age} Years Old")   Output==> My Name john Iam 30 Years Old
@@ -161,4 +165,4 @@ print (f"My Name {name} Iam {age} Years Old")   Output==> My Name john Iam 30 Ye
 
 
 [Main](./README.md)
-[Strings1](./strings1.md)
+[Back](./strings1.md)

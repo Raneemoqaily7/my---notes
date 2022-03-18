@@ -1,5 +1,5 @@
 
- # Strings 1
+ # Strings Method
 
 ``` 
 myStringOne ='This is Single Quote'
@@ -162,7 +162,9 @@ print(myString.count("And",0,25))                          Output ==>2
 
 
 [Main](./README.md)
+
 [Back](./firstApp.md)
+
 [Next](./strings2.md)
 
 
