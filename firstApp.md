@@ -261,6 +261,25 @@ print (myString[2:11:2])      #Output ==> Lv yh
 print (myString[-2:-11:-2])   #Output ==> otPeo
 ```
 
+```
+print (myString[:11])     #Output ==> I Love Pyth     #If Start Is Not Here Start From Index 0
+print (myString[0:])      #Output ==> I Love Python   #If End Is Not Here Will Go To The End 
+print (myString[2:])      #Output ==> Love Python
+print (myString[-2:])     #Output ==> on
+print (myString[:-2])     #Output ==> I Love Pyth
+print (myString[:])       #Output ==> Love Python     #Full Data 
+```
+
+
+```
+print (myString[0::5])    #Output ==> Ieh
+print (myString[0::4])    #Output ==> Ivyn
+print (myString[0::10])   #Output ==> Ih
+print (myString[0::1])    #Output ==> I Love Python    #Full  Data
+```
+
+## Strings Method 
+
 
 
 
