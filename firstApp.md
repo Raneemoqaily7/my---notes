@@ -224,16 +224,16 @@ myStringFive ="""First
 Second
 Third"""
 
-print(myStringFive)
+print(myStringFive)       Output ==>  First
+
+                                      Second
+
+                                      Third
+
+                                               
 ```
 
-Output ==> 
 
-First
-
-Second
-
-Third
 
 ## String Indexing And Slicing 
 
