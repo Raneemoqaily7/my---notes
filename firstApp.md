@@ -43,11 +43,16 @@ Python is sensetive in  Indentation (Block of Code)
 
 ***Comments important for other programmers to give a notes and describe the code*** 
 
- """ 
- This 
- is 
- Not 
+ """
+
+ This
+
+ is
+
+ Not
+
  Comment
+ 
  """
 
 
