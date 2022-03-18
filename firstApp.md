@@ -241,11 +241,21 @@ print(myStringFive)       Output ==>  First
 
 ```
 myString ="I Love Python"
-print (myString[0]) ==> I
-print(myString[5])  ==> e
+print (myString[0]) ==> I    #First Character From The Start 
+print(myString[5])  ==> e    #Fifth Character From The Start
 print(myString[-1]) ==> n    #First Character From The End
 print(myString[-4]) ==> t    #Fourth Character From The End
 ```
+- ***Slicing (Access Multiple Sequence Items)***
+
+***[start:End]   #End Not Encluded***
+```
+myString ="I Love Python"
+print (myString[8:11])     #Output ==>yth
+print (myString[2:6])      #Output ==>Love
+print (myString[7:13])     #Output ==>Python
+```
+
 
 
 
