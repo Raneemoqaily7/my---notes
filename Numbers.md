@@ -73,19 +73,70 @@ print(myList[-6])            #Output ==>one
 
 myList =["one","Two","one","1","10.96","True"]
 ```
-# print (myList[0])
-# print(myList[-6])
+print(myList[-1])            #True
+print(myList[-6])            #one 
 print (myList[0])            #one 
 print (type (myList))        #<class 'list'>
-print (type (myList[0]))    #<class 'str'>
-print(myList[-1])           #True 
+print (type (myList[0]))     #<class 'str'>
+print(myList[-1])            #True 
 myList[0]="Hello"
-print (myList)              #['Hello', 'Two', 'one', '1', '10.96', 'True']
-print (myList[0:3])         #['Hello', 'Two', 'one']
+print (myList)               #['Hello', 'Two', 'one', '1', '10.96', 'True']
+print (myList[0:3])          #['Hello', 'Two', 'one']
 myList[0:3]="hello"
-print (myList)              #['h', 'e', 'l', 'l', 'o', '1', '10.96', 'True']
+print (myList)               #['h', 'e', 'l', 'l', 'o', '1', '10.96', 'True']
 myList[0:4] =[]             
-print (myList)              #['o', '1', '10.96', 'True']
+print (myList)               #['o', '1', '10.96', 'True']
 
-print(len(myList))          #4
+print(len(myList))           #4
+myList[0:3]=["A","B" ,"C"]   #['A', 'B', 'C', '1', '10.96', 'True']
+print(myList)
 ```
+## List Mithods
+
+***append()***
+
+```
+list1 =[1,2,3,4,5]
+list1.append(6)
+print (list1)    #[1,2,3,4,5,6]
+```
+
+---
+
+***extend()***
+```
+list1=["one","two","three"]
+list2=[1,2,3]
+list1.extend(list2)                 
+print(list1)                #['one', 'two', 'three', 1, 2, 3]
+```
+
+***sort()***
+```
+list1=["Z","Q","B","A"]
+list1.sort()
+print(list1)                #['A', 'B', 'Q', 'Z']
+
+
+list1.sort(reverse=True)
+print(list1)                #['Z','Q','B','A']              
+
+list2=[2,4,10,1]
+list2.sort()
+print(list2)                #[1,2,4,10]
+
+
+```
+
+***reverse()***
+```
+list1=[2,4,10,1]
+list1.reverse()
+print(list1)                 #[1.10.4.2]
+
+list2=[2,4,10,1,"john"]
+list2.reverse()
+print(list2)                 #[1.10.4,2,"john"]
+```
+
+
