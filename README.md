@@ -61,7 +61,8 @@
 |---------| -------- |
 | Syntax and variables | [Click Here](./firstApp.md)|
 |Strings Method 1|[Click Here](./strings1.md)|
-|Strings Method 2|[Click Here](./strings2.md)
+|Strings Method 2|[Click Here](./strings2.md)|
+|Numbers & Lists|[Click Here](./Numbers.md)
 
 
 
